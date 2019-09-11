@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe.config
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.pdb
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.exe
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.pdb
+C:\Users\APRENDIZ\Desktop\Calculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.fMain.resources
